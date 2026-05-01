@@ -1,0 +1,9 @@
+,Coefficient,Std Error,p-value
+is_insured,779.667,647.285,0.228
+is_urban,-767.232,332.058,0.021
+is_male,42.501,204.226,0.835
+age,-18.212,15.927,0.253
+household_size,129.259,120.802,0.285
+wealth_10k,543.913,440.046,0.216
+district_uhc_index,95.901,25.307,0.0
+ip_private,23495.4,1570.59,0.0
