@@ -1,0 +1,9 @@
+,OR,p-value
+Intercept,35.0969,0.0
+log_income,0.7838,0.0
+knot_1,0.8553,0.2821
+knot_2,0.9991,0.9965
+knot_3,0.8237,0.2456
+is_insured,1.2239,0.0
+is_urban,1.1673,0.0
+district_uhc_index,0.974,0.0

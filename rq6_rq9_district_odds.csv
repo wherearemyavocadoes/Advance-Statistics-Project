@@ -1,0 +1,10 @@
+,OR,p-value
+Intercept,1.4434,0.0
+wealth_10k,0.3556,0.0
+age,0.9977,0.0157
+household_size,0.9893,0.1143
+is_insured,1.496,0.0
+is_urban,1.0143,0.6328
+op_private,7.004,0.0
+ip_private,89.1894,0.0
+uhc_std,0.8995,0.0

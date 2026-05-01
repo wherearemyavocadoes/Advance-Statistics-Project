@@ -1,0 +1,32 @@
+feature,coef,abs_coef
+state_region_C,-1.1779,1.1779
+had_ip_visit,0.8292,0.8292
+state_region_B,-0.7988,0.7988
+religion_Sikh,-0.7417,0.7417
+ip_private,0.5368,0.5368
+op_private,0.5213,0.5213
+district_uhc_index,0.3347,0.3347
+district_uhc_tercile_Low-UHC,0.2391,0.2391
+mental_health_rating_Poor,0.2232,0.2232
+religion_Muslim,0.2112,0.2112
+caste_OBCs,-0.1934,0.1934
+is_urban,-0.1901,0.1901
+ins_coverage_limit,0.1898,0.1898
+education_Primary,-0.1889,0.1889
+physical_health_rating_Poor,0.1703,0.1703
+mental_health_rating_Very Poor,0.1695,0.1695
+physical_health_rating_Very Poor,0.1405,0.1405
+religion_Hindu,-0.1067,0.1067
+caste_General,0.0797,0.0797
+had_op_visit,0.0783,0.0783
+occupation_Self-Employed,0.0595,0.0595
+occupation_Others,-0.0546,0.0546
+education_Secondary,0.0473,0.0473
+ins_premium_annual,-0.0339,0.0339
+marital_status_NeverMarried,-0.0285,0.0285
+total_hh_spend,0.0255,0.0255
+physical_health_rating_Very Good,-0.0202,0.0202
+mental_health_rating_Very Good,-0.0151,0.0151
+poor_health,0.0125,0.0125
+is_male,0.0064,0.0064
+household_size,-0.0004,0.0004
